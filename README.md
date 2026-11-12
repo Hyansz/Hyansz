@@ -16,15 +16,15 @@
 
 ## 👨‍💻 Tentang Saya
 
-Mahasiswa Informatika di Indonesia yang membangun web app, otomasi, dan bot untuk proyek pribadi maupun freelance. Fokus saya: membuat sistem yang jalan sendiri, rapi, dan bisa dipakai nyata.
+Mahasiswa Informatika di Indonesia yang membangun web app, agent AI, otomasi, dan bot scraping serta analisis data untuk kebutuhan bisnis, perusahaan, maupun perorangan. Fokus saya: membuat sistem yang jalan sendiri, rapi, dan bisa dipakai nyata.
 
 ## ⚡ Yang Saya Kerjakan
 
 | | Bidang | Contoh |
 |---|---|---|
 | 🌐 | **Full-Stack Development** | Web app, SaaS, landing page, dashboard (Next.js, React, FastAPI) |
-| 🤖 | **Automation Engineering** | Scraping, scheduler, pipeline data, workflow otomatis |
-| 💬 | **Bot Specialist** | Bot Telegram, Discord, dan WhatsApp untuk bisnis dan komunitas |
+| 🤖 | **Automation Engineering** | Agent AI, workflow otomatis, pipeline data, dan scheduler untuk perusahaan maupun perorangan |
+| 💬 | **Bot Specialist** | Bot scraping dan analisis data untuk bisnis, perusahaan, maupun perorangan |
 
 ## 🧰 Tech Stack
 
@@ -33,38 +33,23 @@ Mahasiswa Informatika di Indonesia yang membangun web app, otomasi, dan bot untu
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  <img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  <img src="https://img.shields.io/badge/WhatsApp_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/AI_Agents-8A2BE2?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Web_Scraping-FF6F00?style=for-the-badge" alt="Web Scraping" />
+  <img src="https://img.shields.io/badge/Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 </p>
 
 ## 🚀 Proyek Pilihan
 
-<p align="center">
-  <a href="https://github.com/Hyansz/saas-inventory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyansz&repo=saas-inventory&theme=tokyonight&hide_border=true" alt="saas-inventory" />
-  </a>
-  <a href="https://github.com/Hyansz/blog-app-herbal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyansz&repo=blog-app-herbal&theme=tokyonight&hide_border=true" alt="blog-app-herbal" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Hyansz/rekayasa-manufaktur-LP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyansz&repo=rekayasa-manufaktur-LP&theme=tokyonight&hide_border=true" alt="rekayasa-manufaktur-LP" />
-  </a>
-  <a href="https://github.com/Hyansz/n3-bac-landing-page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyansz&repo=n3-bac-landing-page&theme=tokyonight&hide_border=true" alt="n3-bac-landing-page" />
-  </a>
-</p>
+| Proyek | Deskripsi | Stack |
+|---|---|---|
+| [**saas-inventory**](https://github.com/Hyansz/saas-inventory) | Aplikasi SaaS inventori | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| [**blog-app-herbal**](https://github.com/Hyansz/blog-app-herbal) | Blog Herbalpedia | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| [**rekayasa-manufaktur-LP**](https://github.com/Hyansz/rekayasa-manufaktur-LP) | Landing page Rekayasa Manufaktur | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [**n3-bac-landing-page**](https://github.com/Hyansz/n3-bac-landing-page) | Landing page N3 BAC | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white) |
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Hyansz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyansz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Hyansz&theme=tokyonight&hide_border=true" alt="Streak stats" />
@@ -72,7 +57,7 @@ Mahasiswa Informatika di Indonesia yang membangun web app, otomasi, dan bot untu
 
 ## 🤝 Mari Kerja Sama
 
-Butuh website, otomasi, atau bot untuk bisnismu? Hubungi saya.
+Butuh website, agent AI, otomasi workflow, atau bot scraping dan analisis data? Hubungi saya.
 
 <p>
   <a href="https://www.linkedin.com/in/reraihan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
