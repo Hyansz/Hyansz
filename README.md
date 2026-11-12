@@ -44,10 +44,11 @@ Mahasiswa Informatika di Indonesia yang membangun web app, agent AI, otomasi, da
 
 | Proyek | Deskripsi | Stack |
 |---|---|---|
-| [**saas-inventory**](https://github.com/Hyansz/saas-inventory) | Aplikasi SaaS inventori | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| [**blog-app-herbal**](https://github.com/Hyansz/blog-app-herbal) | Blog Herbalpedia | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| [**rekayasa-manufaktur-LP**](https://github.com/Hyansz/rekayasa-manufaktur-LP) | Landing page Rekayasa Manufaktur | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [**saas-inventory**](https://github.com/Hyansz/saas-inventory) | Aplikasi SaaS inventori | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) |
+| [**blog-app-herbal**](https://github.com/Hyansz/blog-app-herbal) | Blog Herbalpedia | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| [**rekayasa-manufaktur-LP**](https://github.com/Hyansz/rekayasa-manufaktur-LP) | Landing page Rekayasa Manufaktur | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) |
 | [**n3-bac-landing-page**](https://github.com/Hyansz/n3-bac-landing-page) | Landing page N3 BAC | ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white) |
+| [**gaspoll**](https://github.com/Hyansz/gaspoll) | CLI Node.js untuk 9Router: uji dan benchmark semua model, susun combo, dan failover otomatis saat model limit atau macet | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) |
 
 ## 📊 GitHub Stats
 
